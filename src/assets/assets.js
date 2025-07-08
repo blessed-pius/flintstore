@@ -92,7 +92,7 @@ import p_img51 from './p_img51.png'
 import p_img52 from './p_img52.png'
 
 
-import logo from './flint.png'
+import logo from './LoGo.png'
 import hero_img from './home-second.jpg'
 import cart_icon from './cart_icon.png'
 import bin_icon from './bin_icon.png'
@@ -132,8 +132,7 @@ export const assets = {
     cross_icon
 }
 
-export const products = [
-    {
+export const products = [{
         _id: "aaaca",
         name: "Men Slim Fit Relaxed Denim Jacket",
         description: "A lightweight, knitted, pullover shirt, close-fitting with a round neckline and short sleeves, worn as an undershirt or outer garment.",
@@ -1151,7 +1150,8 @@ export const products = [
         category: "Kids",
         subCategory: "Bottomwear",
         sizes: ["S", "M", "L", "XL"],
-        date: 1716666245448, bestseller: false
+        date: 1716666245448,
+        bestseller: false
     },
     {
         _id: "aaaby",
