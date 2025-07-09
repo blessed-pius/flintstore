@@ -4,7 +4,7 @@ import p_img2_2 from './p_img2_2.png'
 import p_img2_3 from './p_img2_3.png'
 import p_img2_4 from './p_img2_4.png'
 import it1 from './it1.jpg'
-import jean2 from './jean2.jpg'
+import it2 from './it2.jpg'
 import jean3 from './jean3.jpg'
 import jean4 from './jean4.jpg'
 import jean5 from './jean5.jpg'
@@ -134,25 +134,25 @@ export const assets = {
 
 export const products = [{
         _id: "aaaca",
-        name: "Collagen anti-aging facial mask",
+        name: "BIOAQUA Collagen anti-aging facial mask",
         description: "",
         price: 1000,
         image: [it1],
         category: "",
-        subCategory: "",
+        subCategory: "Mask",
         // sizes: ["S", "M", "L", "XL"],
         date: 1716668445448,
         bestseller: false
     },
     {
         _id: "aaacb",
-        name: "Casual Blue Denim Jeans",
-        description: "Stylish and comfortable blue denim jeans, perfect for casual outings or everyday wear.",
-        price: 299,
-        image: [jean2],
-        category: "Men",
-        subCategory: "Jeans",
-        sizes: ["M", "L", "XL"],
+        name: "BIOAQUA Retinol Antioxidant Facial Mask",
+        description: "Hydrating and skin-renewing facial sheet mask enriched with Retinol and Tocopherol. Helps reduce fine lines, delay aging, and improve skin texture perfect for tired or dull skin" < br > "100% Original product" < br > "Easy return and exchange policy within 3 days",
+        price: 1000,
+        image: [it2],
+        category: "",
+        subCategory: "Mask",
+        // sizes: ["M", "L", "XL"],
         date: 1716668455449,
         bestseller: true
     },
