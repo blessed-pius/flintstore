@@ -92,7 +92,7 @@ import p_img51 from './p_img51.png'
 import p_img52 from './p_img52.png'
 
 
-import logo from './LoGo.png'
+import logo from './logo1.png'
 import hero_img from './home-second.jpg'
 import cart_icon from './cart_icon.png'
 import bin_icon from './bin_icon.png'
