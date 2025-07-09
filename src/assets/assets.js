@@ -134,7 +134,7 @@ export const assets = {
 
 export const products = [{
         _id: "aaaca",
-        name: "BIOAQUA Collagen anti-aging facial mask",
+        name: "BIOAQUA Collagen Anti-Aging Facial Mask",
         description: "",
         price: 1000,
         image: [it1],
