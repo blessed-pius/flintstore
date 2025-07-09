@@ -147,7 +147,7 @@ export const products = [{
     {
         _id: "aaacb",
         name: "BIOAQUA Retinol Antioxidant Facial Mask",
-        description: "Hydrating and skin-renewing facial sheet mask enriched with Retinol and Tocopherol. Helps reduce fine lines, delay aging, and improve skin texture perfect for tired or dull skin" < br > "100% Original product" < br > "Easy return and exchange policy within 3 days",
+        description: "Hydrating and skin-renewing facial sheet mask enriched with Retinol and Tocopherol. Helps reduce fine lines, delay aging, and improve skin texture perfect for tired or dull skin.",
         price: 1000,
         image: [it2],
         category: "",
