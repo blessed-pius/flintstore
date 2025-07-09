@@ -3,7 +3,7 @@ import p_img2_1 from './p_img2_1.png'
 import p_img2_2 from './p_img2_2.png'
 import p_img2_3 from './p_img2_3.png'
 import p_img2_4 from './p_img2_4.png'
-import jean1 from './jean1.jpg'
+import it1 from './it1.jpg'
 import jean2 from './jean2.jpg'
 import jean3 from './jean3.jpg'
 import jean4 from './jean4.jpg'
@@ -134,13 +134,13 @@ export const assets = {
 
 export const products = [{
         _id: "aaaca",
-        name: "Men Slim Fit Relaxed Denim Jacket",
-        description: "A lightweight, knitted, pullover shirt, close-fitting with a round neckline and short sleeves, worn as an undershirt or outer garment.",
-        price: 350,
-        image: [jean1],
-        category: "Men",
-        subCategory: "Winterwear",
-        sizes: ["S", "M", "L", "XL"],
+        name: "Collagen anti-aging facial mask",
+        description: "",
+        price: 1000,
+        image: [it1],
+        category: "",
+        subCategory: "",
+        // sizes: ["S", "M", "L", "XL"],
         date: 1716668445448,
         bestseller: false
     },
