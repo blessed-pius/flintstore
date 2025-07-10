@@ -140,7 +140,7 @@ export const products = [{
         image: [it1],
         category: "",
         subCategory: "Mask",
-        // sizes: ["S", "M", "L", "XL"],
+        sizes: ["S", "M", "L", "XL"],
         date: 1716668445448,
         bestseller: false
     },
@@ -152,7 +152,7 @@ export const products = [{
         image: [it2],
         category: "",
         subCategory: "Mask",
-        // sizes: ["M", "L", "XL"],
+        sizes: ["M", "L", "XL"],
         date: 1716668455449,
         bestseller: true
     },
