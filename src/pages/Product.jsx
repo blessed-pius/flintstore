@@ -25,7 +25,7 @@ const Product = () => {
       <div className='flex gap-12 sm:gap-12 flex-col sm:flex-row'>
         {/* Product images */}
         <div className='flex-1 flex flex-col-reverse gap-3 sm:flex-row'>
-          <div className='flex sm:flex-col overflow-x-auto justify-between sm:justify-normal sm:w-[18.3%] w-full'>
+          <div className='flex sm:flex-col overflow-x-auto justify-between sm:justify-normal sm:w-[50%] w-full'>
             {productData.image.map((item, index) => (
               <img
                 src={item}
