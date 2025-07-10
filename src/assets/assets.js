@@ -135,12 +135,12 @@ export const assets = {
 export const products = [{
         _id: "aaaca",
         name: "BIOAQUA Collagen Anti-Aging Facial Mask",
-        description: "",
+        description: "Hydrating and skin-renewing facial sheet mask enriched with Retinol and Tocopherol. Helps reduce fine lines, delay aging, and improve skin texture perfect for tired or dull skin.",
         price: 1000,
         image: [it1],
-        category: "",
+        category: "Women",
         subCategory: "Mask",
-        sizes: ["S", "M", "L", "XL"],
+        sizes: ["1"],
         date: 1716668445448,
         bestseller: false
     },
@@ -150,9 +150,9 @@ export const products = [{
         description: "Hydrating and skin-renewing facial sheet mask enriched with Retinol and Tocopherol. Helps reduce fine lines, delay aging, and improve skin texture perfect for tired or dull skin.",
         price: 1000,
         image: [it2],
-        category: "",
+        category: "Women",
         subCategory: "Mask",
-        sizes: ["M", "L", "XL"],
+        sizes: ["1"],
         date: 1716668455449,
         bestseller: true
     },
